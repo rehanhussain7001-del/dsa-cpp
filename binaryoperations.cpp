@@ -12,5 +12,13 @@ int main(){
     cout<< (19<<1)<< endl;
     cout<< (19<<2)<< endl;
 
+    int i = 7;
+
+    cout<< (i++) << endl; // 7
+    cout<< (++i) << endl; // 9
+    cout<< (i--) << endl; // 9
+    cout<< (--i) << endl; // 7
+    
+
 
 }
