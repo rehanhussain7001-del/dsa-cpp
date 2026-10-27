@@ -19,6 +19,4 @@ int main(){
     cout<< (i--) << endl; // 9
     cout<< (--i) << endl; // 7
     
-
-
 }
